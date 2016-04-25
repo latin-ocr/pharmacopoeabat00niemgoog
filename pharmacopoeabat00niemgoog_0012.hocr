@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeabat00niemgoog_0012.png"; bbox 0 0 2358 4168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 1457 1028 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 123 1457 1028 2110">
+     <span class='ocr_line' id='line_1_1' title="bbox 278 1457 986 1652; baseline 0 -58"><span class='ocrx_word' id='word_1_1' title='bbox 278 1457 694 1600; x_wconf 71' lang='lat' dir='ltr'>connx</span> <span class='ocrx_word' id='word_1_2' title='bbox 786 1463 789 1470; x_wconf 46' lang='lat'><strong><em>⁴</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 968 1643 986 1652; x_wconf 53' lang='lat'><em>„</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 123 1733 1028 1828; baseline -0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 123 1733 827 1828; x_wconf 65' lang='lat' dir='ltr'><strong>Mssmcfflmfflms</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1024 1733 1028 1744; x_wconf 88' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 242 1959 645 2110; baseline 0 -56"><span class='ocrx_word' id='word_1_6' title='bbox 242 2105 244 2110; x_wconf 68' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 331 1959 645 2062; x_wconf 68' lang='lat' dir='ltr'><strong>EUROPABUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 430 2253 664 2314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 262 2253 664 2314">
+     <span class='ocr_line' id='line_1_4' title="bbox 430 2253 664 2314; baseline -0.005 -2.836"><span class='ocrx_word' id='word_1_8' title='bbox 430 2253 499 2313; x_wconf 65' lang='lat' dir='ltr'><strong>Vm..</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 517 2253 566 2314; x_wconf 82' lang='lat' dir='ltr'><strong>lv.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 660 2271 664 2278; x_wconf 90' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1184 4168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1184 4168">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1184 4168; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1184 4168; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
